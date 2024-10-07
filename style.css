@@ -45,7 +45,7 @@ section {
   height: 55.5vh;
   display: flex;
   align-items: center;
-  background: url(Porto/download.jpg);
+  background: url(images/download.jpg);
   background-size:cover;
   background-position: center;
   margin-top: 150px;
